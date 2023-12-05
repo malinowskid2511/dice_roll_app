@@ -12,11 +12,10 @@ class GradientContainer extends StatelessWidget {
   @override
   Widget build(context) {
     return Container(
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          colors: colors,
-          begin: startAlignment,
-          end: endAlignment,
+      decoration: const BoxDecoration(
+        image: DecorationImage(
+          image: AssetImage('assets/images/cassino.jpg'),
+          fit: BoxFit.cover,
         ),
       ),
       child: const Center(
