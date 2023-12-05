@@ -1,0 +1,1 @@
+ G:\\flutter_projects\\dice_roll_app\\.dart_tool\\flutter_build\\1809f8e55a2c3e7557aefee3d5b3cc72\\native_assets.yaml: 
